@@ -4,7 +4,7 @@
 ## Description
 The objective of the game is to destroy the crystals and to avoid getting yourself killed and your ship. </br>
 Your ship has a cannon that you can use to destroy structures. </br>
-The portals spawn enemies regularly, use the cannon to disable it.</br>
+The portals spawn enemies regularly, use the cannon to disable them.</br>
 </br>
 [Download demo](https://github.com/Hernan-Perez/Unity.Game.Demo-DestroyableWorld/releases/tag/v0.1a)
 </br>
